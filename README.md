@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Errror404
+-I know myself particularly well in computer languages 
+-JavaScript
+-C# Sharp, C++ 
+-HTML
+-PHP
+-Python ( cython )
